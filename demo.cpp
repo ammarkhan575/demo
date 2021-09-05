@@ -4,5 +4,6 @@ int main(){
     cout<<"ammar";
     cout<<"rishi";
     cout<<"rishi";
+    cout<<"amr";
 return 0;
 }
